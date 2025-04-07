@@ -1,1 +1,2 @@
 Adding commin h. i. j, k ,
+Added .gitignore but forgot to add M:
